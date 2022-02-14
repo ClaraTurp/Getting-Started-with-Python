@@ -5,7 +5,6 @@ No prior programming experience is required or expected for this workshop. It is
 
 Before the workshop, please download Python with Anaconda. For more information see the section Pre-Workshop: Downloading Anaconda of the document.<br>
 You can follow the directions [here](https://librarycarpentry.org/lc-python-intro/setup.html) <br>
-Download the Graphical Installer.
 
 This workshop was built to use Jupyter Notebooks. During this session, you should use a new notebook to familiarize yourself with this technology.
 Here are the notebooks for each sessions: <br>
