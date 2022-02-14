@@ -11,7 +11,7 @@ Here are the notebooks for each sessions: <br>
 [First Session Jupyter Notebook](https://github.com/ClaraTurp/Getting-Started-with-Python/blob/main/pythonWorkshop_firstSession_2022.ipynb)<br>
 [Second Session Jupyter Notebook]
 
-The documentation for this workshop is available through the Python Workshop PDF.
+The documentation for this workshop is available through the [Python Workshop PDF.](https://github.com/ClaraTurp/Getting-Started-with-Python/blob/main/Python%20Workshop_2021-03-12.pdf)
 
 
 [Please leave feedback](https://forms.office.com/Pages/ResponsePage.aspx?id=cZYxzedSaEqvqfz4-J8J6jyp0g6_kyVDhNJTXJrpgkRUNkRUVU1IMzc5RElTUlZEWUtBM01aSUZLUi4u)
