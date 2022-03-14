@@ -3,11 +3,15 @@
 This workshop was developped using [Library Carpentries](https://librarycarpentry.org/lc-python-intro/) <br>
 No prior programming experience is required or expected for this workshop. It is divided into two 2 hours workshop.
 
-Before the workshop, please download Python with Anaconda. For more information see the section Pre-Workshop: Downloading Anaconda of the document.<br>
+## Before the first workshop
+
+Please download Python with Anaconda. For more information see the section Pre-Workshop: Downloading Anaconda of the document.<br>
 You can follow the directions [here](https://librarycarpentry.org/lc-python-intro/setup.html) <br>
 
-This workshop was built to use Jupyter Notebooks. During this session, you should use a new notebook to familiarize yourself with this technology.
-Here are the notebooks for each sessions: <br>
+Download the [fairy tales folder] () available here and save them on a folder on your Desktop.
+
+This workshop was built using Jupyter Notebooks. During this session, you should use a new notebook to familiarize yourself with this technology.
+The full notebooks for each sessions are available here: <br>
 [First Session Jupyter Notebook](https://github.com/ClaraTurp/Getting-Started-with-Python/blob/main/pythonWorkshop_firstSession_2022.ipynb)<br>
 [Second Session Jupyter Notebook]
 
