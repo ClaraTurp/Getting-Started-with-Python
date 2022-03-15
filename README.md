@@ -1,6 +1,6 @@
 # Getting-Started-with-Python
 
-This workshop was developped using [Library Carpentries](https://librarycarpentry.org/lc-python-intro/) <br>
+This workshop was developed using [Library Carpentries](https://librarycarpentry.org/lc-python-intro/) <br>
 No prior programming experience is required or expected for this workshop. It is divided into two 2 hours workshop.
 
 ## Before the first workshop
