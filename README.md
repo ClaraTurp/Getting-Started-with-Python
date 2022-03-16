@@ -13,7 +13,8 @@ Download the [fairy tales folder](https://github.com/ClaraTurp/Getting-Started-w
 This workshop was built using Jupyter Notebooks. During this session, you should use a new notebook to familiarize yourself with this technology.
 The full notebooks for each sessions are available here: <br>
 [First Session Jupyter Notebook](https://github.com/ClaraTurp/Getting-Started-with-Python/blob/main/pythonWorkshop_firstSession_2022.ipynb)<br>
-[Second Session Jupyter Notebook](https://github.com/ClaraTurp/Getting-Started-with-Python/blob/main/pythonWorkshop_secondSession_2022.ipynb)
+[Second Session Jupyter Notebook](https://github.com/ClaraTurp/Getting-Started-with-Python/blob/main/pythonWorkshop_secondSession_2022.ipynb)<br>
+Here are some instructions on [how to save Jupyter Notebooks from GitHub](https://stackoverflow.com/questions/45622602/how-to-save-jupyter-notebooks-from-github)
 
 We will build a script during the workshop. During the workshop, you should build the script yourself. [The final script is available](https://github.com/ClaraTurp/Getting-Started-with-Python/blob/main/Python_ReadFiles.ipynb)
 
